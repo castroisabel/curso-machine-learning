@@ -1,6 +1,6 @@
 # curso-machine-learning
 
-### Conteúdo programático:
+### Conteúdo:
 
 1. Python aplicado a Data Science
 2. Introdução a Machine Learning
